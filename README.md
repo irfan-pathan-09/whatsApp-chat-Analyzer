@@ -113,7 +113,7 @@ GitHub:
 https://github.com/irfan-pathan-09
 
 LinkedIn:  
-(Add your LinkedIn link here)
+www.linkedin.com/in/irfan-khan-b042b7305
 
 ---
 
