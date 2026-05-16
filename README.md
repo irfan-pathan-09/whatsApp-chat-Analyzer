@@ -107,7 +107,7 @@ Through this project, I learned:
 
 ## 👨‍💻 Author
 
-Irfan Pathan
+Irfan Khan Pathan
 
 GitHub:  
 https://github.com/irfan-pathan-09
