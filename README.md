@@ -117,7 +117,7 @@ www.linkedin.com/in/irfan-khan-b042b7305
 
 ---
 
-## ⭐ Support
+## ⭐ Show your Support
 
 If you like this project, please consider starring the repository!
 
