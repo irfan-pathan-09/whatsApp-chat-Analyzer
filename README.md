@@ -109,10 +109,10 @@ Through this project, I learned:
 
 Irfan Khan Pathan
 
-GitHub:  
+- GitHub:  
 https://github.com/irfan-pathan-09
 
-LinkedIn:  
+- LinkedIn profile:  
 www.linkedin.com/in/irfan-khan-b042b7305
 
 ---
